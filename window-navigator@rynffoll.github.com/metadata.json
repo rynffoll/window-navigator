@@ -1,0 +1,8 @@
+{
+  "name": "window-navigator",
+  "description": "Fork of windowNavigator with multi-monitor support",
+  "uuid": "window-navigator@rynffoll.github.com",
+  "shell-version": [
+    "3.24.3"
+  ]
+}
